@@ -8,7 +8,7 @@ const Home = () => {
     }
     return ( 
         <div className="home">
-            <h2>Home page</h2>
+            <h2>ADD more posts</h2>
             <button onClick={handleClick}>Login</button>
             <button onClick={() => {
                 againClick("sahan")
